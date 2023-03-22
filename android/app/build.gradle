@@ -115,11 +115,11 @@ android {
 
     namespace "com.reactnativelabs"
     defaultConfig {
-        applicationId "com.reactnativelabs"
+        applicationId 'com.chrismonvitable.reactnativelabs'
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
-        versionName "1.0"
+        versionName "1.0.0"
     }
 
     splits {

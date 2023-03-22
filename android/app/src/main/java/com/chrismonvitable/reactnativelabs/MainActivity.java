@@ -1,4 +1,4 @@
-package com.reactnativelabs;
+package com.chrismonvitable.reactnativelabs;
 
 import android.os.Build;
 import android.os.Bundle;
